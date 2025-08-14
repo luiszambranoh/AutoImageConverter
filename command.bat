@@ -1,0 +1,1 @@
+"C:\Users\Mimaki\AppData\Local\Programs\Python\Python313\pythonw.exe" "D:\LuisZambrano_Proyectos\webptopng\webp_to_png.pyw"

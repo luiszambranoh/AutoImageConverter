@@ -1,0 +1,3 @@
+The project is a Python script that automatically converts .webp and .avif image files to the .png format.
+
+It works by continuously monitoring a designated download folder. When a new image with a .webp or .avif extension is detected, the script waits for a few seconds to ensure the download is complete. Then, it uses the Pillow library to open the image and save a new version of it as a .png file in a specified destination folder.
